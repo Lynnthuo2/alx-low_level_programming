@@ -1,4 +1,4 @@
-#include <stdio>
+#include <stdio.h>
 
 /**
  * main - Prits the alphabet.
@@ -13,6 +13,6 @@ char alp[52] = "abcdefghijklmnopqrstuvwxyz";
 	{
 		putchar(alp[i]);
 	}
-	putchar('\n');
+	putchar('\nclude n');
 	return (0);
 }
