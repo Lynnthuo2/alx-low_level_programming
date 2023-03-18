@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
+ * main - prints alphabets in lower and upper case
  *
  * Return: Always 0 ( success)
  */
@@ -25,6 +25,7 @@ int main(void)
 			d++;
 		}
 	putchar('\n');
+
 	return (0);
 
 
