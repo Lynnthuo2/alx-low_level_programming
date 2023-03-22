@@ -1,4 +1,4 @@
-#include <stdio>
+#include <stdio.h>
 /**
  * main - prints sum of fibo numbers under 4,000,000
  * Return: 0
