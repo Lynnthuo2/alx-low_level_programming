@@ -7,17 +7,19 @@
  */
 
 int main(void)
+
 {
-	char c, e, q;
+	int c;
 
-	e = 'e';
-	q = 'q';
-
-	for (c = 'a'; c <= 'z'; c++)
-
-	{
-	if (c != e && c != q)
-	putchar(c);
-	}
-	putchar('\n\);
-		return (0);
+	c = 97
+		while (c <= 122)
+		{
+	    if (c != 101 && c != 113)
+		  {
+	    putchar(c);
+	    }
+	    c++
+		}
+	putchar('\n')
+	return (0);
+}
